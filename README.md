@@ -1,0 +1,1 @@
+Config for XenoGenes collection
